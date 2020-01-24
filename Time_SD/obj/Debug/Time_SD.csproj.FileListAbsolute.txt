@@ -1,0 +1,48 @@
+c:\users\donst\documents\visual studio 2013\Projects\Time_SD\Time_SD\bin\Debug\Time_SD.exe
+C:\Users\DonSt\Documents\Visual Studio 2013\Projects\Time_SD\Time_SD\bin\Debug\Time_SD.exe.config
+C:\Users\DonSt\Documents\Visual Studio 2013\Projects\Time_SD\Time_SD\obj\Debug\MainWindow.baml
+C:\Users\DonSt\Documents\Visual Studio 2013\Projects\Time_SD\Time_SD\obj\Debug\MainWindow.g.cs
+C:\Users\DonSt\Documents\Visual Studio 2013\Projects\Time_SD\Time_SD\obj\Debug\App.g.cs
+C:\Users\DonSt\Documents\Visual Studio 2013\Projects\Time_SD\Time_SD\obj\Debug\Time_SD_MarkupCompile.cache
+C:\Users\DonSt\Documents\Visual Studio 2013\Projects\Time_SD\Time_SD\obj\Debug\Time_SD.g.resources
+C:\Users\DonSt\Documents\Visual Studio 2013\Projects\Time_SD\Time_SD\obj\Debug\Time_SD.Properties.Resources.resources
+C:\Users\DonSt\Documents\Visual Studio 2013\Projects\Time_SD\Time_SD\obj\Debug\Time_SD.csproj.GenerateResource.Cache
+C:\Users\DonSt\Documents\Visual Studio 2013\Projects\Time_SD\Time_SD\obj\Debug\Time_SD.exe
+C:\Users\DonSt\Documents\Visual Studio 2013\Projects\Time_SD\Time_SD\obj\Debug\Time_SD.pdb
+C:\Users\DonSt\Documents\Visual Studio 2013\Projects\Time_SD\Time_SD\obj\Debug\Time_SD.csprojResolveAssemblyReference.cache
+C:\Users\DonSt\Documents\Visual Studio 2013\Projects\Time_SD\Time_SD\bin\Debug\Time_SD.pdb
+C:\Users\DonSt\Documents\Visual Studio 2013\Projects\Time_SD\Time_SD\obj\Debug\bul.baml
+C:\Users\DonSt\Documents\Visual Studio 2013\Projects\Time_SD\Time_SD\obj\Debug\bul.g.cs
+C:\Users\DonSt\Dropbox\Полезные проекты\Time_SD\Time_SD\obj\Debug\Time_SD.csprojResolveAssemblyReference.cache
+C:\Users\DonSt\Dropbox\Полезные проекты\Time_SD\Time_SD\obj\Debug\bul.baml
+C:\Users\DonSt\Dropbox\Полезные проекты\Time_SD\Time_SD\obj\Debug\MainWindow.baml
+C:\Users\DonSt\Dropbox\Полезные проекты\Time_SD\Time_SD\obj\Debug\bul.g.cs
+C:\Users\DonSt\Dropbox\Полезные проекты\Time_SD\Time_SD\obj\Debug\MainWindow.g.cs
+C:\Users\DonSt\Dropbox\Полезные проекты\Time_SD\Time_SD\obj\Debug\App.g.cs
+C:\Users\DonSt\Dropbox\Полезные проекты\Time_SD\Time_SD\obj\Debug\Time_SD_MarkupCompile.cache
+C:\Users\DonSt\Dropbox\Полезные проекты\Time_SD\Time_SD\obj\Debug\Time_SD.g.resources
+C:\Users\DonSt\Dropbox\Полезные проекты\Time_SD\Time_SD\obj\Debug\Time_SD.Properties.Resources.resources
+C:\Users\DonSt\Dropbox\Полезные проекты\Time_SD\Time_SD\obj\Debug\Time_SD.csproj.GenerateResource.Cache
+C:\Users\DonSt\Dropbox\Полезные проекты\Time_SD\Time_SD\obj\Debug\Time_SD.exe
+C:\Users\DonSt\Dropbox\Полезные проекты\Time_SD\Time_SD\obj\Debug\Time_SD.pdb
+C:\Users\DonSt\Dropbox\Полезные проекты\Time_SD\Time_SD\bin\Debug\Time_SD.exe.config
+C:\Users\DonSt\Dropbox\Полезные проекты\Time_SD\Time_SD\bin\Debug\Time_SD.exe
+C:\Users\DonSt\Dropbox\Полезные проекты\Time_SD\Time_SD\bin\Debug\Time_SD.pdb
+C:\Users\DonSt\Dropbox\Полезные проекты\Time_SD\Time_SD\bin\Debug\NAudio.dll
+C:\Users\DonSt\Dropbox\Полезные проекты\Time_SD\Time_SD\bin\Debug\NAudio.xml
+C:\Users\DonSt\Desktop\Time_SD\Time_SD\bin\Debug\Time_SD.exe.config
+C:\Users\DonSt\Desktop\Time_SD\Time_SD\bin\Debug\Time_SD.exe
+C:\Users\DonSt\Desktop\Time_SD\Time_SD\bin\Debug\Time_SD.pdb
+C:\Users\DonSt\Desktop\Time_SD\Time_SD\bin\Debug\NAudio.xml
+C:\Users\DonSt\Desktop\Time_SD\Time_SD\obj\Debug\Time_SD.csprojResolveAssemblyReference.cache
+C:\Users\DonSt\Desktop\Time_SD\Time_SD\obj\Debug\bul.baml
+C:\Users\DonSt\Desktop\Time_SD\Time_SD\obj\Debug\MainWindow.baml
+C:\Users\DonSt\Desktop\Time_SD\Time_SD\obj\Debug\bul.g.cs
+C:\Users\DonSt\Desktop\Time_SD\Time_SD\obj\Debug\MainWindow.g.cs
+C:\Users\DonSt\Desktop\Time_SD\Time_SD\obj\Debug\App.g.cs
+C:\Users\DonSt\Desktop\Time_SD\Time_SD\obj\Debug\Time_SD_MarkupCompile.cache
+C:\Users\DonSt\Desktop\Time_SD\Time_SD\obj\Debug\Time_SD.g.resources
+C:\Users\DonSt\Desktop\Time_SD\Time_SD\obj\Debug\Time_SD.Properties.Resources.resources
+C:\Users\DonSt\Desktop\Time_SD\Time_SD\obj\Debug\Time_SD.csproj.GenerateResource.Cache
+C:\Users\DonSt\Desktop\Time_SD\Time_SD\obj\Debug\Time_SD.exe
+C:\Users\DonSt\Desktop\Time_SD\Time_SD\obj\Debug\Time_SD.pdb

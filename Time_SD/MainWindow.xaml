@@ -1,0 +1,47 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Name="window1" x:Class="Time_SD.MainWindow"
+        Title="Time         " Height="195.925" Width="428.493" Visibility="Visible" WindowStyle="None" AllowsTransparency="True"  Background="Transparent" Opacity="1" BorderThickness="20,50,10,0" Foreground="#FFCFCFCF"
+           WindowStartupLocation="CenterScreen" Topmost="True"
+                  
+        >
+
+
+    <Grid Margin="0,0,0,4" d:IsLocked="True">
+        <Label x:Name="lable_time" Content="00:00:00" Margin="10,-25,15,47" FontSize="72" Foreground="Orange" FontFamily="Segoe Print" d:IsLocked="True">
+            <Label.ContextMenu>
+
+                <ContextMenu x:Name="cm" Width="200"  StaysOpen="true" >
+
+                    <MenuItem Header="Цвет" >
+                        <MenuItem Header="Белый" Click="MenuItem_Click" />
+                        <MenuItem Header="Синий" Click="MenuItem_Click_1"/>
+                        <MenuItem Header="Красный" Click="MenuItem_Click_2"/>
+                        <MenuItem Header="Желтый" Click="MenuItem_Click_3"/>
+                        <MenuItem Header="Зеленый" Click="MenuItem_Click_4"/>
+                        <MenuItem Header="Оранжевый" Click="MenuItem_Click_5"/>
+                        <MenuItem Header="Золотой" Click="MenuItem_Click_6"/>
+                        <MenuItem Header="Бирюзовый" Click="MenuItem_Click_7"/>
+                    </MenuItem>
+                    
+                    <MenuItem Header="Будильник">
+                        <CheckBox x:Name="CheckBox_budilnic" Content="Будильник"/>
+                        <Label x:Name="zad" Foreground="Black"  FontSize="18" Content="00:00"/>
+                        <MenuItem Header="Установить время" Click="Button_budilnic"/>
+                    </MenuItem>                    
+                   
+                    <CheckBox x:Name="CheckBox_Ticer" Content="Тикер"/>
+                    <CheckBox x:Name="CheckBox_Minut" Content="Только минуты"/>
+
+                    <MenuItem Header="Закрыть" Click="MenuItem_Click_Close"/>
+
+                </ContextMenu>
+            </Label.ContextMenu>
+        </Label>
+
+    </Grid>
+
+
+</Window>
+
